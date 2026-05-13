@@ -1,7 +1,5 @@
 # 🎰 Roulette Table ASCII
 
-A Python-based terminal roulette game featuring a custom-built ASCII art table and interactive gameplay. This project demonstrates basic game logic, random number generation, and terminal styling using the `colorama` library.
-
 ## 🌟 Features
 
 - **Interactive Gameplay**: Place bets on specific numbers, colors (Red/Black), or parity (Even/Odd).
